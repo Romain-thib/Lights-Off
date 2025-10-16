@@ -1,6 +1,6 @@
 # 💡 LightsOff
 
-LightsOff est une application JavaFX éducative inspirée du célèbre jeu de réflexion. Le but du jeu est simple : éteindre toutes les lumières sur une grille de 5x5 cases. Mais attention, chaque clic inverse l'état de la case sélectionnée ainsi que celui de ses voisines !
+LightsOff est une application JavaFX éducative inspirée du jeu de réflexion. Le but du jeu est simple : éteindre toutes les lumières sur une grille de 5x5 cases. Mais attention, chaque clic inverse l'état de la case sélectionnée ainsi que celui de ses voisines !
 
 ## 🎮 Fonctionnement
 
